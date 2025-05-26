@@ -41,22 +41,28 @@ export const skills = {
         "JavaScript",
     ],
     frontendDevelopment: [
-        "Nextjs",
-        "Reactjs",
+        "NextJs",
+        "ReactJs",
         "Redux",
         "Zustand",
+        "React hook form",
+        "Zod",
+        "TanStack Query",
         "Shadcn UI",
         "Tailwind CSS",
         "HTML",
         "CSS",
-        "Motion"
+        "Motion",
+        "CSS modules",
+        'Sass'
     ],
-    backendDevelopment: ["Nodejs", "Expressjs", "Nestjs", "GraphQL", "RabbitMQ"],
-    databaseAndStorage: ["PostgreSQL", "Prisma (ORM)", "Elasticsearch", "Redis", "Firebase"],
+    backendDevelopment: ["NodeJs", "ExpressJs", "NestJs", "GraphQL", "RabbitMQ", "Prisma (ORM)", "Mongoose", "Sequelize"],
+    databaseAndStorage: ["PostgreSQL", "Elasticsearch", "MongoDB", "Redis", "Firebase", "Supabase"],
     cloudAndDevOps: ["Docker"],
     toolsAndServices: [
-        "Zod",
+        'Vim', 'WebStorm', 'CursorAi'
     ],
+
 } as const;
 
 export const projects: {
@@ -75,10 +81,10 @@ export const projects: {
         youtube: "https://youtu.be/59R-vXjbaoc",
         description: [
             "Blog sharing app with advanced user helping features",
-            "Search optimised: Implemented server side rendering with Nextjs for unleashing power of search engines.",
+            "Search optimised: Implemented server side rendering with NextJs for unleashing power of search engines.",
             "Distributed microservice architecture: expandable load resistant system.",
             "Caching optimised: make user experience very handful and fast unleashing power of Redis and SSR",
-            "Built with Nextjs, Nestjs",
+            "Built with NextJs, NestJs",
         ],
         showcases: [
             {

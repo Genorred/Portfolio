@@ -12,7 +12,7 @@ export const workExperience = [
         iconSrc: '/gloosy.svg',
         exhibitionSrc: '/gloosy-exhibition',
         location: "Remote",
-        position: "Software Engineer",
+        position: "Fullstack Developer",
         period: "May 2024 - August 2024",
         achievements: [
             "Created the core functionality and helped to release in time",

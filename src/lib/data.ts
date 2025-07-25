@@ -13,7 +13,7 @@ export const workExperience = [
         exhibitionSrc: '/gloosy-exhibition',
         location: "Remote",
         position: "Fullstack Developer",
-        period: "May 2024 - August 2024",
+        period: "May 2024 - June 2025",
         achievements: [
             "Created the core functionality and helped to release in time",
             "Made responsive UI of majority of pages",
@@ -25,7 +25,7 @@ export const education = [
     {
         institution: "Odessa technical vocational college ONTU",
         location: "Odessa, Ukraine",
-        degree: "2 year",
+        degree: "1 year",
         period: "Jun 2023 - Present",
         achievements: [
             // "President of the Department of Information Technology",

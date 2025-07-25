@@ -25,7 +25,7 @@ export const education = [
     {
         institution: "Odessa technical vocational college ONTU",
         location: "Odessa, Ukraine",
-        degree: "1 year",
+        degree: "2 years",
         period: "Jun 2023 - Present",
         achievements: [
             // "President of the Department of Information Technology",

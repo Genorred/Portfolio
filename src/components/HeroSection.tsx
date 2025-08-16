@@ -117,7 +117,7 @@ export default function HeroSection() {
                         <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
                             <span
                                 className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-                            🚀 I am Mykhailo 17 years old Fullstack developer with 2 years of experience
+                            🚀 I am Mykhailo 17 years old Fullstack developer with 1 year of experience
                             <br/> using modern technologies to do the work as efficiently and productively as
                             possible, trying to select best architectural solutions to meet needs
                             and optimize resources. It is important for me to find the most accurate solutions for the
